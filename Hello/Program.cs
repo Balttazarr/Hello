@@ -9,6 +9,7 @@ namespace Hello
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Github");
+            Console.WriteLine("Tutaj kolejna linia do sprawdzenia :) ");
         }
     }
 }
